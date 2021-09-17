@@ -10,3 +10,5 @@ Database is stored as csv for quick access from laymen, however since its import
 This GUI template should serve as a base for your future expansion and purpose. Enjoy! 
 
 See import list for dependencies.
+
+The code itself isnt very well commented as this is done as a side hobby for my own development, happy to explore further developments.
